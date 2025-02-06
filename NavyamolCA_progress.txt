@@ -1,0 +1,14 @@
+Day 1 : 06/02/25
+ I have learned :
+    1.To create responsive headers and their attributes.
+    2.To add background images directly from google and their attributes.
+    3.To create account in github ,to create ssh keys,to create a 
+      repository,to add and commit files.
+ I have implemented : 
+    1.Headers in my webpage.
+    2.Added background image.
+    3.Created account in github and committed my work.
+ I have faced challenges like :
+    1.Setting up git ssh keys.
+
+
