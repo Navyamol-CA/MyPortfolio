@@ -6,28 +6,40 @@ body {
     color: #333;
 }
 .header {
-    background-color: #333;
-    color: white;
+    /* background-image: linear-gradient(to top,#8458B3,white); */
+    background-image: linear-gradient(#4B0082,white,#9866bc);
+    color: rgb(6, 6, 6);
     padding: 15px;
     text-align: center;
+    text-shadow: 2px 2px rgb(248, 248, 248);
     position: sticky;
     top: 0;
 }
+
+
 .nav {
-    text-align: center;
-    padding: 10px;
-    background: #444;
-    position: fixed;
+    float: left;
+    text-shadow: 2px 2px rgb(184, 183, 183);
+    padding: 20px;
+    border-radius: 8px;
+    position:sticky;
+    top: 110px;
+    
 }
 .nav a {
-    color: white;
+    color: rgb(0, 0, 0);
+    display: block;
     margin: 10px;
     text-decoration: none;
     font-weight: bold;
+    
 }
 .nav a:hover{
-    color: cornflowerblue;
+    color: #6A5ACD;
+    background: #e6e6fa;
+    border-radius: 5px;
 }
+
 .container {
     width: 80%;
     margin: auto;
@@ -36,28 +48,46 @@ body {
 }
 .section1,.section2,.section3,.section4 {
     background: white;
-    padding: 200px;
+    text-shadow: 2px 2px rgb(248, 248, 248);
+    padding: 250px;
     /* margin: 20px 0; */
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    background-repeat: no-repeat;
+    font-size: 25px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    width: 75%;
+    height: 50%;
+
+
 }
 .section1{
-    background-image: url("https://img.freepik.com/premium-vector/vector-woman-is-sitting-with-laptop-isolated-white-background_1174912-3478.jpg?ga=GA1.1.1249482783.1738850849&semt=ais_incoming");
-    background-repeat: no-repeat;
+    background-image: url("https://img.freepik.com/premium-vector/woman-works-laptop-sitting-floor-flat-cartoon-vector_621660-5508.jpg?w=740");
 }
 .section2{
-    background-image: url();
+    background-image: url("https://cdn.vectorstock.com/i/1000v/18/56/girl-employee-cartoon-character-typing-vector-54141856.avif");
+    background-position: center;
 }
 .section3{
-   background-image: url(); 
+    font-size: 25px;
+    background-image: url(); 
 }
 .section4{
-    background-image: url();
+    background-image: url("https://img.freepik.com/premium-vector/cartoon-illustration-girl-with-laptop-her-lap_782516-37747.jpg?w=740");
+    background-position: center;
+
 }
+h2{
+    font-family:cursive;
+    font-size: 30px;
+}
+
 
 footer {
     text-align: center;
     padding: 10px;
-    background: #333;
+    background-image: linear-gradient(#4B0082,white,#9866bc);
     color: white;
 }
+
+

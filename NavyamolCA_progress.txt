@@ -12,3 +12,15 @@ Day 1 : 06/02/25
     1.Setting up git ssh keys.
 
 
+Day 2 : 07/02/25
+ I have learned :
+    1.To create background linear gradient .
+    2.About flex.
+    3.To create vertical navigation bars.
+ I have implemented : 
+    1.Background linear gradient in my webpage.
+    2.Vertical navigation bars.
+ I have faced challenges like :
+    1.I don't get more idea about flex ,i will overcome it tomorrow.
+
+
