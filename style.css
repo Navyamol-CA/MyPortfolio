@@ -46,7 +46,7 @@ body {
     overflow: hidden;
     padding: 20px;
 }
-.section1,.section2,.section3,.section4 {
+.section1,.section2,.section3,.section4 ,.section5{
     background: white;
     text-shadow: 2px 2px rgb(248, 248, 248);
     padding: 250px;
@@ -69,17 +69,32 @@ body {
     background-position: center;
 }
 .section3{
-    font-size: 25px;
-    background-image: url(); 
+    background-image: url("https://img.freepik.com/premium-vector/woman-working-with-computer_113065-11.jpg?ga=GA1.1.1249482783.1738850849&semt=ais_hybrid"); 
+    background-position: center;
+
 }
+.section5{
+    background-image: url("https://img.freepik.com/premium-vector/professional-female-designer-working-laptop-vector-illustration_1322553-74649.jpg?ga=GA1.1.1249482783.1738850849&semt=ais_hybrid"); 
+    background-position: center;
+
+}
+
 .section4{
     background-image: url("https://img.freepik.com/premium-vector/cartoon-illustration-girl-with-laptop-her-lap_782516-37747.jpg?w=740");
     background-position: center;
 
 }
+.section4 a{
+    color: blue;
+}
+.section4 a:hover{
+    color: rgb(0, 255, 251);
+}
+
 h2{
     font-family:cursive;
     font-size: 30px;
+    
 }
 
 
@@ -87,7 +102,7 @@ footer {
     text-align: center;
     padding: 10px;
     background-image: linear-gradient(#4B0082,white,#9866bc);
-    color: white;
+    color: black;
 }
 
 

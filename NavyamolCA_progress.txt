@@ -23,4 +23,11 @@ Day 2 : 07/02/25
  I have faced challenges like :
     1.I don't get more idea about flex ,i will overcome it tomorrow.
 
-
+Day 3 : 08/02/25
+ I have learned :
+    1.More about CSS.
+    2.About flex.
+ I have implemented : 
+    1.Modified the existing CSS.
+ I have faced challenges like :
+   Today there was no more challenges i have to face .
