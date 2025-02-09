@@ -31,3 +31,7 @@ Day 3 : 08/02/25
     1.Modified the existing CSS.
  I have faced challenges like :
    Today there was no more challenges i have to face .
+
+Day 4 : 09/02/25
+
+Finally i have completed my portfolio website successfully.
